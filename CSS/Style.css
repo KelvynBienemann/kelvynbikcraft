@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* Layout global */
 @import "./Global/Global.css";
 
@@ -9,17 +8,10 @@
 @import "./utilidades/cores.css";
 
 /* cabeçario */
-=======
-@import "./Global/Global.css";
->>>>>>> ef8d8d643ba867eb0b5443052ca84e23569d8cd7
 @import "./Global/header.css";
 
 /* utilitario */
 @import "./utilidades/componentes.css";
 
 /* home */
-<<<<<<< HEAD
 @import "./home/introducao.css";
-=======
-@import "./home/Introducao.css";
->>>>>>> ef8d8d643ba867eb0b5443052ca84e23569d8cd7
