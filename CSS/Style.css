@@ -1,8 +1,17 @@
-@import "/CSS/Global/Global.css";
-@import "/CSS/Global/header.css";
+/* Layout global */
+@import "./Global/Global.css";
+
+/* tipografias */
+@import "./Global/tipografia.css";
+
+/* cores do site */
+@import "./utilidades/cores.css";
+
+/* cabeçario */
+@import "./Global/header.css";
 
 /* utilitario */
-@import "/CSS/utilidades/componentes.css";
+@import "./utilidades/componentes.css";
 
 /* home */
-@import "/CSS/home/introducao.css";
+@import "./home/introducao.css";
