@@ -1,8 +1,8 @@
-@import "/Global/Global.css";
-@import "/Global/header.css";
+@import "./Global/Global.css";
+@import "./Global/header.css";
 
 /* utilitario */
-@import "/utilidades/componentes.css";
+@import "./utilidades/componentes.css";
 
 /* home */
-@import "/home/introducao.css";
+@import "./home/introducao.css";
