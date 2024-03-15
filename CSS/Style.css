@@ -2,7 +2,7 @@
 @import "./Global/Global.css";
 
 /* tipografias */
-@import "./Global/tipografia.css";
+@import "./utilidades/tipografia.css";
 
 /* cores do site */
 @import "./utilidades/cores.css";
@@ -16,6 +16,8 @@
 /* home */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
 /* bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
