@@ -20,6 +20,9 @@
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
 
+/* Bicicleta NIMBUS */
+@import "./bicicleta/bicicleta.css";
+
 /* bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
