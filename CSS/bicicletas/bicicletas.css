@@ -1,7 +1,7 @@
 .bicicletas-bg {
   background: linear-gradient(to right, var(--cor-0) 30%, var(--cor-11) 0%);
 }
-
+/* atualizar */
 .bicicletas {
   display: grid;
   grid-template-columns: 1fr 1fr;
