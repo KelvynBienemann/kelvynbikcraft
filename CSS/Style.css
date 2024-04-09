@@ -2,6 +2,10 @@
 @import "./Global/Global.css";
 @import "./Global/footer.css";
 
+/* contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
+
 /* tipografias */
 @import "./utilidades/tipografia.css";
 
@@ -13,6 +17,7 @@
 
 /* utilitario */
 @import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
 
 /* home */
 @import "./home/introducao.css";
