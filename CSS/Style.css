@@ -18,6 +18,7 @@
 /* utilitario */
 @import "./utilidades/componentes.css";
 @import "./utilidades/formulario.css";
+@import "./utilidades/animacao.css";
 
 /* home */
 @import "./home/introducao.css";
